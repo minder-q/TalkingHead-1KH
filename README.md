@@ -40,6 +40,7 @@ bash videos_download_and_crop.sh train
 ```
 The script will automatically download the YouTube videos, split them into short clips, and then crop and trim them to include only the face regions. The final processed clips should appear in `train/cropped_clips`.
 
+Alternatively, processed clips can be downloaded from this [Google Drive link](https://drive.google.com/file/d/1_sEbKHtwDIn1vcEc9ei2qPfRc9hQLQKE/view?usp=share_link).
 
 ## Evaluation
 To download the evaluation set which consists of only 1080p videos, please run
